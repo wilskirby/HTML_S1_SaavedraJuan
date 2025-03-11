@@ -1,0 +1,20 @@
+*{
+        margin: 10 px;
+    }
+    h1,h2,h3,h4,h5,h6{
+        color: purple;
+    }
+    p{
+        color: black;
+    }
+    /* Estilos a nivel de clase /*/
+    .parrafo {
+        font-size: 50 px;
+    }
+    /* Estilos a nivel de id */
+    #boton1{
+        font-size: italic;
+        font-size: 25px;
+
+
+    }
