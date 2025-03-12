@@ -20,7 +20,7 @@ git clone (link del repositorio)
 _Para la ejecución de cada uno de los programas solamente tiene que usar este comando en Visual Studio_
 
 ```
-python3 (ubicacion del archivo en el repositorio)
+Abra la ubicacion del HTML
 ```
 ##  Explicación del contenido 🧠
 
