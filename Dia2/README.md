@@ -23,3 +23,14 @@ Después de realizar ese comando se ubica en el archivo, se dirige a Dia2 y all�
 2. En esta parte del código del HTML es el inicio para la realización de la "Hoja de Vida", lo que se realizo al principio fue diferentes "Divs" para tener todo en recuadros ordenadamente y así cada archivo tener su función
 
 ![enter image description her](https://github.com/wilskirby/HTML_S1_SaavedraJuan/blob/main/Dia2/foto/doc1.png?raw=true)
+
+3.  Aquí se encuentran los Sub Divs con la información de cada recuadro junto a sus textos para que tengan su forma adecuada con la información necesitada
+
+![enter image description here](https://github.com/wilskirby/HTML_S1_SaavedraJuan/blob/main/Dia2/foto/doc2.png?raw=true)
+
+4.  Por ultimo este es todo el código del archivo .CSS el cual contiene todo el estilo para cada recuadro y como es que cada uno se puede ordenar de esa manera, ademas que se puede visualizar como es que esta hecho todo el contenido de este.
+![enter image description here](https://github.com/wilskirby/HTML_S1_SaavedraJuan/blob/main/Dia2/foto/doc3.png?raw=true)
+
+
+## Repositorio
+Diseñado y creado por [JuanDavidSaavedra](https://github.com/wilskirby)
