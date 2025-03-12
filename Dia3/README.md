@@ -15,9 +15,13 @@ Después de realizar ese comando se ubica en el archivo, se dirige a Dia2 y all�
 1. Para iniciar lo que se realizo en el HTML se añadieron diferentes carpetas las cuales cada una tiene su funcion:
 
 **Foto:** En esta contiene todo el contenido fotográfico o imágenes que se usaron en el repositorio
+
 **Style:** Aquí se encuentra todo el estilo del HTML en pocas palabras se encuentra el archivo .CSS
+
 **Index.html:** Este archivo es donde esta todo el código principal
+
 **README. md:** Se encuentra la documentación de este archivo
+
 ![enter image description here](https://github.com/wilskirby/HTML_S1_SaavedraJuan/blob/main/Dia3/foto/doc4.png?raw=true)
 
 2. En esta parte del código del HTML es el inicio para la realización de la "Hoja de Vida Tablas", al contrario del Día2 que se usaron divs para el funcionamiento del código así que por ello fue mas sencillo ya que para la forma del documento fue mas favorecido
