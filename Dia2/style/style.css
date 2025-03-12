@@ -1,7 +1,9 @@
+/*Cambio de todo el cuerpo de la pagina */
 body{
     background-color: bisque;
     font-family: Arial, sans-serif;
     font-size: large;
+/*Para Tener todos los textos centrados*/
     display: flex;
     justify-content: center;
 }
@@ -12,12 +14,15 @@ body{
 }
 
 .content {
+/*Para la forma de cada recueadro*/
     background-color: lightblue;
     border: 2px solid black;
 }
 #foto {
+/*La forma redonda de la Foto*/
     border-radius: 100%;
 }
+/*De aqui para abajo funciona para cada recuadro su forma,color y bordes externos e internos*/
 .columna1_1 {
     background-color: white;
     padding: 25px;
