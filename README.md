@@ -30,6 +30,8 @@ Abra la ubicacion del HTML
 |--|--|
 |Dia 1|Pruebas de HTML
 |Dia 2|Hoja de Vida en HTML
+|Dia 3|Hoja de Vida en HTML usando tablas
+|Dia 4|Mi formulario - Web
 
 ## Repositorio
 Diseñado y creado por [JuanDavidSaavedra](https://github.com/wilskirby)
