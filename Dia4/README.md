@@ -41,6 +41,7 @@ Junto a lo adicional que se pidió también que son:
 ![enter image description here](https://github.com/wilskirby/HTML_S1_SaavedraJuan/blob/main/Dia4/foto/doc1.png?raw=true)
 
  3.  Por último este es todo el código del archivo .CSS el cual contiene todo el estilo para el texto que se alinee y  tenga el color el fondo.
+
 ![enter image description here](https://github.com/wilskirby/HTML_S1_SaavedraJuan/blob/main/Dia4/foto/doc2.png?raw=true)
 
 
