@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulario de registro - Mi web</title>
+    <link rel="stylesheet" type="text/css" href="./style/style.css">
+</head>
+<body>
+    <form class="hola" action="" method="post">
+        <h1>Formulario de registro - Mi web</h1>
+        <input type="text" name="nombre" id="nombre" placeholder="Nombre"/>
+        <br/>
+        <br/>
+        <input type="text" name="apellidos" id="apellidos" placeholder="Apellidos"/>
+        <br/>
+        <br/>
+        <input type="radio" name="sexo" value="hombre" id="hombre"/>
+        <label for="hombre">Hombre</label>
+        <input type="radio" name="sexo" value="mujer" id="mujer"/>
+        <label for="mujer">Mujer</label>
+        <br/>
+        <br/>
+        <input type="email" name="email" id="email" placeholder="Correo"/>
+        <br/>
+        <br/>
+        <input type="checkbox" name="terminos" id="terminos" checked/>
+        <label for="terminos">Deseo recibir información sobre novedades y ofertas</label>
+        <br/>
+        <br/>
+        <input type="checkbox" name="terminos" id="terminos">
+        <label for="terminos">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>
+        <br/>
+        <br/>
+        <input type="submit" value="Enviar"/>
+        <br/>
+        <br/>
+        <select name="pais" id="pais">
+            <option value="sel">Selecciona una Población</option>
+            <option value="Buc">Bucaramanga</option>
+            <option value="Gir">Giron</option>
+            <option value="Flor">Floridablanca</option>
+            <option value="Pied">Piedecuesta</option>
+        </select>
+        <br/>
+        <br/>
+        <label for="comentarios"><h2>Descripción</h2></label>
+        <textarea name="comentarios" id="comentarios" cols="100" rows="30">
+        </textarea>
+</body>
+</html>
