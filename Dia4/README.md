@@ -9,7 +9,7 @@ Para poder ejecutar este archivo en su dispositivo localmente acceda a este link
 Seguidamente usa git bash en tu ordenado y utiliza el siguiente comando
 
     git clone https://github.com/wilskirby/HTML_S1_SaavedraJuan
-Después de realizar ese comando se ubica en el archivo, se dirige a Dia2 y allí utiliza el Index.HTML
+Después de realizar ese comando se ubica en el archivo, se dirige a Dia4 y allí utiliza el Index.HTML
 
 ## Funcionamiento del HTML ⏰
 1. Para iniciar lo que se realizo en el HTML se añadieron diferentes carpetas las cuales cada una tiene su funcion:
