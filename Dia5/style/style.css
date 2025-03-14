@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    background-image: url("../fotos/Path1.svg");
+    background-size: cover;
+    background-image: no-repeat;
+}
+
+#foto1{
+    width: 1920px;
+    height: 1080px;
+}
+
+#foto2{
+ /* Layout Properties */
+    position: absolute;
+    top: 37px;
+    left: 63px;
+    width: 36px;
+    height: 36px;
+    display: block;
+
+}
+
+#foto3{
+    /* Layout Properties */
+    position: absolute;
+    top: 227px;
+    left: 682px;
+    width: 556px;
+    height: 313px;
+    display: block;
+}
+
+#foto4{
+    /* Layout Properties */
+    position: absolute;
+    display: block;
+    top: 30px;
+    left: 1695px;
+    width: 205px;
+    height: 54px;
+
+}
+
+.div1{
+    /* Layout Properties */
+    position: absolute;
+    top: 30px;
+    left: 1695px;
+    width: 205px;
+    height: 54px;
+    text-align: center;
+    font-size: 18px;
+    display: block;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.div2{
+    /* Layout Properties */
+    position: absolute;
+    text-align: center;
+    top: 424px;
+    left: 389px;
+    width: 1151px;
+    height: 60px;
+    font-size: 25px;
+    color:#FFFFFF;
+    display: block;
+}
+
+.div3{
+    /* Layout Properties */
+    position: absolute;
+    top: 570px;
+    left: 300px;
+    width: 1151px;
+    height: 60px;
+    text-align: center;
+    font-size: 25px;
+    color:#FFFFFF;
+    display: block;
+}
+.div4{
+    /* Layout Properties */
+    position: absolute;
+    top: 200px;
+    left: 430px;
+    width: 458px;
+    height: 104px;
+    text-align: center;
+    font-size: 37px;
+    display: block;
+    background-color: #FFFFFF;
+    border-radius: 100px;
+     color: black;
+     padding-bottom: 15px;
+}
