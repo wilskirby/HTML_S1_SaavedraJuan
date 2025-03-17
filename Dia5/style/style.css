@@ -34,11 +34,11 @@ body{
 #foto4{
     /* Layout Properties */
     position: absolute;
-    display: block;
-    top: 30px;
-    left: 1695px;
-    width: 205px;
-    height: 54px;
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    display: flex;
 
 }
 
@@ -97,3 +97,21 @@ body{
      color: black;
      padding-bottom: 15px;
 }
+
+.div5{
+    /* Layout Properties */
+    position: absolute;
+    top: 1717px;
+    left: 71px;
+    width: 1792px;
+    height: 724px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 24px;
+    display: block;
+    background-color: #00A8E1;
+    border-radius: 108px;
+    color: white;
+    padding-bottom: 15px;
+}
+
