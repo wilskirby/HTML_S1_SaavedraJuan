@@ -148,6 +148,236 @@ body{
     text-align: center;
     opacity: 50%;
 }
+
+.logonew{
+    position: absolute;
+    display: block;
+    top: 105px;
+    left: 350px;
+    width: 576px;
+    height: 324px;
+
+    opacity: 1;
+}
+
+.cuadro .barra .plata{
+    position: absolute;
+    font-size: 20px;
+    color: #FFFFFF;
+    opacity: 50%;
+    left: 25px;
+    top: 300px;
+    text-align: center;
+}
+
+.cuadro .barra .plata2{
+    position: absolute;
+    font-size: 20px;
+    color: #FFFFFF;
+    left: 25px;
+    top: 400px;
+    text-align: center;
+}
+
+.cuadro .barra .plata3{
+    position: absolute;
+    font-size: 20px;
+    color: #FFFFFF;
+    left: 25px;
+    top: 500px;
+    text-align: center;
+    opacity: 50%;
+}
+
+.saldo{
+    position: absolute;
+    display: block;
+    top: 40px;
+    left: 963px;
+    width: 132px;
+    height: 41px;
+    font-size: 30px;
+    color: black
+
+}
+
+.saldo2{
+    position: absolute;
+    display: block;
+    top: 12px;
+    left: 963px;
+    width: 132px;
+    height: 41px;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+}
+
+.comprar{
+    position: absolute;
+    display: block;
+    top: 11px;
+    left: 663px;
+    width: 242px;
+    height: 41px;
+    font-size: 30px;
+    color: black
+
+}
+
+.__{
+    position: absolute;
+    display: block;
+    top: 70px;
+    left: 700px;
+    width: 132px;
+    height: 41px;
+    font-size: 30px;
+    color: black
+}
+
+._2{
+    position: absolute;
+    display: block;
+    top: 70px;
+    left: 984px;
+    width: 132px;
+    height: 41px;
+    font-size: 30px;
+    color: black
+}
+
+.tarjeta{
+    position: absolute;
+    display: block;
+    top: 122px;
+    left: 100px;
+}
+
+.tarj2{
+    position: absolute;
+    display: block;
+    top: 122px;
+    left: 100px;
+    width: 576px;
+    height: 324px;
+}
+
+.tarjeta2{
+    position: absolute;
+    display: block;
+    width: 716px;
+    height: 55px;
+    font-size: 40px;
+    color: black;
+    top: 661px;
+    left: 60px;
+}
+
+.mishu{
+    position: absolute;
+    display: block;
+    top: 398px;
+    left: 301px;
+    width: 700px;
+    height: 55px;
+    font-size: 40px;
+    color: black;
+}
+
+.mishu2{
+    position: absolute;
+    display: block;
+    top: 467px;
+    width: 329px;
+    left: 481px;
+    height: 37px;
+    font-size: 27px;
+    color: black;
+}
+
+.mishu3{
+    position: absolute;
+    display: block;
+    top: 527px;
+    left: 537px;
+    width: 200px;
+    height: 37px;
+    font-size: 27px;
+    color: black;
+}
+
+.mishu4{
+    position: absolute;
+    display: block;
+    top: 597px;
+    left: 497px;
+    width: 288px;
+    height: 58px;
+    font-size: 27px;
+    color: black;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.mishutext{
+    position: absolute;
+    display: block;
+    top: 610px;
+    left: 600px;
+    width: 77px;
+    height: 37px;
+    font-size: 27px;
+    color: black;
+}
+
+.COP{
+    position: absolute;
+    display: block;
+    width: 716px;
+    height: 55px;
+    font-size: 27px;
+    color: black;
+    top: 720px;
+    left: 60px;
+}
+
+.comprar2{
+    position: absolute;
+    display: block;
+    top: 647px;
+    left: 1090px;
+    width: 160px;
+    height: 114px;
+    background: #D5FF43;
+    border-radius: 8px;
+}
+
+.metro2{
+    position: absolute;
+    display: block;
+    top: 670px;
+    left: 1105px;
+    width: 129px;
+    height: 29px;
+}
+
+.comprar3{
+    position: absolute;
+    display: block;
+    top: 714px;
+    left: 1115px;
+    width: 111px;
+    height: 36px;
+    font-size: 26px;
+}
 /*
 
 
