@@ -6,10 +6,11 @@ _En el siguiente README vamos a poder apreciar el contenido que tiene este repos
 |--|--|
 | 1 | [Día 1](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia1) | 
 | 2 | [Día 2](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia2) | 
-| 3 | [Dia 3](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia3) |
-| 4 | [Dia 4](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia4) |
-| 5 | [Dia 5](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia5) |
-| 7 | [Dia 7](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia7) |
+| 3 | [Día 3](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia3) |
+| 4 | [Día 4](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia4) |
+| 5 | [Día 5](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia5) |
+| 7 | [Día 7](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia7) |
+| 8 | [Día 8](https://github.com/wilskirby/HTML_S1_SaavedraJuan/tree/main/Dia8) |
 
 ## Instalación🚀
 _A continuación se darán unas instrucciones de como poder ejecutar los programas, estas instrucciones te permitirán poder usar y ejecutara todas las funciones de los trabajos anteriormente desarrollados._
