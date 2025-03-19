@@ -16,7 +16,6 @@
 
 body{
     background-color: #0e0d0d;
-    height: 4000px
 }
 
 .logo{
@@ -41,6 +40,7 @@ body{
 }
 
 .home:hover{
+    color: white;
     text-decoration: underline #e6aa56;
 }
 
@@ -256,4 +256,402 @@ body{
     top: 2120px;
     left: 1220px;
     width: 660px;
+}
+
+.productos{
+    font-family: 'binggo-wood-display-serif', serif;
+    font-size: 100px;
+    position: absolute;
+    display: inline;
+    color: white;
+    height: 50px;
+    width: 720px;
+    top: 3150px;
+    left: 100px;
+}
+
+.productos pe span {
+    font-size: 125px;
+}
+
+.fotocafe3{
+    position: absolute;
+    display: block;
+    top: 3430px;
+    left: 250px;
+    width: 180px;
+}
+
+.fotocafe4{
+    position: absolute;
+    display: block;
+    top: 3430px;
+    left: 896px;
+    width: 180px;
+}
+
+.fotocafe5{
+    position: absolute;
+    display: block;
+    top: 3430px;
+    left: 1515px;
+    width: 180px;
+}
+
+.mocha{
+    position: absolute;
+    top: 3510px;
+    display: block;
+    left: 120px;
+    height: 700px;
+    width: 445px;
+    border: 2px solid #e6aa56;
+}
+
+.mocha2{
+    position: absolute;
+    top: 3510px;
+    display: block;
+    left: 755px;
+    height: 700px;
+    width: 445px;
+    border: 2px solid #e6aa56;
+}
+
+.mocha3{
+    position: absolute;
+    top: 3510px;
+    display: block;
+    left: 1370px;
+    height: 700px;
+    width: 445px;
+    border: 2px solid #e6aa56;
+}
+
+.moch{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 150px;
+    display: block;
+    font-size: 30px;
+    left: 180px;
+    width: 445px;
+    font-weight: 600;
+}
+
+.moch2{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 150px;
+    display: block;
+    font-size: 30px;
+    left: 180px;
+    width: 445px;
+    font-weight: 600;
+}
+
+.moch3{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 150px;
+    display: block;
+    font-size: 30px;
+    left: 180px;
+    width: 445px;
+    font-weight: 600;
+}
+
+.expresso{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    position: absolute;
+    top: 290px;
+    font-size: 23px;
+    display: block;
+    left: 155px;
+    width: 445px;
+
+}
+
+.expresso2{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 290px;
+    display: block;
+    font-size: 23px;
+    left: 155px;
+    width: 445px;
+}
+
+.expresso3{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 290px;
+    display: block;
+    font-size: 23px;
+    left: 155px;
+    width: 445px;
+}
+
+.chocolate{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 370px;
+    display: block;
+    font-size: 23px;
+    width: 445px;
+    left: 155px;
+}
+
+.chocolate2{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 370px;
+    display: block;
+    font-size: 23px;
+    width: 445px;
+    left: 155px;
+}
+
+.chocolate3{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 370px;
+    display: block;
+    font-size: 23px;
+    width: 445px;
+    left: 155px;
+}
+
+.milk{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 450px;
+    display: block;
+    font-size: 23px;
+    width: 445px;
+    left: 155px;
+}
+
+.milk2{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 450px;
+    display: block;
+    font-size: 23px;
+    width: 445px;
+    left: 155px;
+}
+
+.milk3{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 450px;
+    display: block;
+    font-size: 23px;
+    width: 445px;
+    left: 155px;
+}
+
+.learn3{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    display: block;
+    color: black;
+    font-size: 25px;
+    background-color: #e6aa56;
+    border: 1px solid #e6aa56;
+    height: 45px;
+    width: 180px;
+    margin: auto;
+    text-align: center;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-left: 16px;
+    top: 600px;    
+    left: 120px;
+    font-weight: 600;
+}
+
+.learn4{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    display: block;
+    color: black;
+    font-size: 25px;
+    background-color: #e6aa56;
+    border: 1px solid #e6aa56;
+    height: 45px;
+    width: 180px;
+    margin: auto;
+    text-align: center;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-left: 16px;
+    top: 600px;    
+    left: 120px;
+    font-weight: 600;
+}
+
+.learn5{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    display: block;
+    color: black;
+    font-size: 25px;
+    background-color: #e6aa56;
+    border: 1px solid #e6aa56;
+    height: 45px;
+    width: 180px;
+    margin: auto;
+    text-align: center;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-left: 16px;
+    top: 600px;    
+    left: 120px;
+    font-weight: 600;
+}
+
+.raya2{
+    position: absolute;
+    display: block;
+    color: #e6aa56;
+    top: 4380px;
+    left: 590px;
+    height: 0px;
+    width: 799px;
+    border: 1px solid #e6aa56;
+}
+
+.about2{
+    font-family: 'Coolvetica', sans-serif;
+    font-size: 55px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 4650px;
+    left: 220px;
+    font-weight: 600;
+}
+
+.about2 pe span {
+    color:#e6aa56;
+}
+
+.contact2{
+    font-family: 'Coolvetica', sans-serif;
+    font-size: 55px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 4650px;
+    left: 860px;
+    font-weight: 600;
+}
+
+.contact2 pe span {
+    color:#e6aa56;
+}
+
+.opening{
+    font-family: 'Coolvetica', sans-serif;
+    font-size: 55px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 4650px;
+    left: 1400px;
+    width: 428px;
+    font-weight: 600;
+}
+
+.opening pe span {
+    color:#e6aa56;
+}
+
+.lorem{
+    font-family: 'CYRVETIC', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 4750px;
+    left: 120px;
+    width: 600px;
+    justify-content: center;
+}
+
+.lorem pe span {
+    padding-left: 10px;
+}
+
+.lorem2{
+    font-family: 'CYRVETIC', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 4750px;
+    left: 770px;
+    width: 600px;
+    justify-content: center;
+}
+
+.lorem2 pe span {
+    padding-left: 10px;
+}
+
+.lorem3{
+    font-family: 'CYRVETIC', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 4750px;
+    left: 1380px;
+    width: 600px;
+    justify-content: center;
+}
+
+.lorem3 pe span {
+    padding-left: 10px;
+}
+
+.raya3{
+    position: absolute;
+    display: block;
+    color: #e6aa56;
+    top: 5120px;
+    left: 590px;
+    height: 0px;
+    width: 799px;
+    border: 1px solid #e6aa56;
+}
+
+.last{
+    font-family: 'CYRVETIC', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 5160px;
+    left: 770px;
+    padding-bottom: 12px;
+}
+
+.last pe span {
+    color:#e6aa56;
 }
