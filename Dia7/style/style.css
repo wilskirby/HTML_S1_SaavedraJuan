@@ -39,8 +39,8 @@ body{
 #logo1{
     position: absolute;
     display: block;
-    top: 180px;
-    left: 315px;
+    top: 40px;
+    left: 45px;
     width: 196px;
     height: 44px;
 
@@ -48,11 +48,45 @@ body{
     opacity: 1;
 }
 
+#logo2{
+    position: absolute;
+    display: block;
+    top: 40px;
+    left: -1258px;
+    width: 196px;
+    height: 44px;
+    
+    
+        opacity: 1;
+}
+
+#arrows{
+    position: absolute;
+    display: block;
+    top: 750px;
+    left: 45px;
+    height: 14px;
+    width: 24px;
+    
+    opacity: 1;
+}
+
+#arrows2{
+    position: absolute;
+    display: block;
+    top: 35px;
+    left: 45px;
+    height: 14px;
+    width: 24px;
+
+    opacity: 1;
+}
+
 #arrow2{
     position: absolute;
     display: block;
-    top: 195px;
-    left: 1610px;
+    top: 35px;
+    left: 1340px;
     height: 14px;
     width: 24px;
 
@@ -62,8 +96,8 @@ body{
 #arrow{
     position: absolute;
     display: block;
-    top: 892px;
-    left: 1610px;
+    top: 750px;
+    left: 1340px;
     height: 14px;
     width: 24px;
     
