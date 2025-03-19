@@ -1,0 +1,259 @@
+@import url("https://fonts.googleapis.com/css?family=Open Sans");
+@font-face {
+    font-family: 'binggo-wood-display-serif';
+    src: url(../font/binggo-wood-display-serif.otf);
+}
+
+@font-face {
+    font-family: 'Coolvetica Rg';
+    src: url(../font/Coolvetica\ Rg.otf);
+}
+
+@font-face {
+    font-family: 'CYRVETIC';
+    src: url(../font/CYRVETIC.TTF);
+}
+
+body{
+    background-color: #0e0d0d;
+    height: 4000px
+}
+
+.logo{
+    font-family: 'Coolvetica Rg';
+    font-size: 38px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 50px;
+    left: 300px;
+}
+
+.home{
+    font-family: 'CYRVETIC', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 50px;
+    left: 1304px;
+   
+}
+
+.home:hover{
+    text-decoration: underline #e6aa56;
+}
+
+.about{
+    font-family: 'CYRVETIC', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 50px;
+    left: 1414px;
+}
+
+.about:hover{
+    text-decoration: underline #e6aa56;
+}
+
+.menu{
+    font-family: 'CYRVETIC', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 50px;
+    left: 1514px;
+}
+
+.menu:hover{
+    text-decoration: underline #e6aa56;
+}
+
+.contact{
+    font-family: 'CYRVETIC', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 50px;
+    left: 1614px;
+}
+
+.contact:hover{
+    text-decoration: underline #e6aa56;
+}
+
+.empieza{
+    font-family: 'binggo-wood-display-serif', serif;
+    font-size: 120px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 250px;
+    left: 520px;
+}
+
+.cafe1{
+    position: absolute;
+    display: block;
+    color: white;
+    top: 350px;
+    left: 520px;
+}
+
+.cafe2{
+    font-family: 'binggo-wood-display-serif', serif;
+    font-size: 120px;
+    position: absolute;
+    display: inline;
+    color: white;
+    top: 1000px;
+    left: 480px;
+}
+
+.shop{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    display: block;
+    color: black;
+    font-size: 25px;
+    background-color: #e6aa56;
+    border: 1px solid #e6aa56;
+    height: 50px;
+    width: 180px;
+    margin: auto;
+    text-align: center;
+    padding-top: 18px;
+    padding-right: 16px;
+    padding-left: 16px;
+    top: 1170px;
+    left: 870px;
+    font-weight: 600;
+
+}
+
+.raya{
+    position: absolute;
+    display: block;
+    color: white;
+    top: 1530px;
+    left: 920px;
+    height: 0px;
+    width: 150px;
+    border: 1px solid white;
+}
+
+
+.story{
+    font-family: 'binggo-wood-display-serif', serif;
+    font-size: 100px;
+    position: absolute;
+    display: inline;
+    color: white;
+    height: 50px;
+    width: 620px;
+    top: 1470px;
+    left: 1098px;
+}
+
+.story pe span {
+    font-size: 115px;
+}
+
+.story2{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 1600px;
+    display: block;
+    font-size: 25px;
+    left: 1100px;
+    width: 745px;
+}
+
+.learn{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    display: block;
+    color: black;
+    font-size: 25px;
+    background-color: #e6aa56;
+    border: 1px solid #e6aa56;
+    height: 45px;
+    width: 180px;
+    margin: auto;
+    text-align: center;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-left: 16px;
+    top: 1710px;    
+    left: 1100px;
+    font-weight: 600;
+}
+
+.fotocafe{
+    position: absolute;
+    display: block;
+    top: 1300px;
+    left: 0px;
+    width: 1000px;
+}
+
+
+.perfect{
+    font-family: 'binggo-wood-display-serif', serif;
+    font-size: 90px;
+    position: absolute;
+    display: inline;
+    color: white;
+    height: 50px;
+    width: 720px;
+    top: 2150px;
+    left: 220px;
+}
+
+.perfect pe span {
+    font-size: 105px;
+}
+
+.perfect2{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    color: white;
+    top: 2510px;
+    display: block;
+    font-size: 25px;
+    left: 220px;
+    width: 745px;
+}
+
+.learn2{
+    font-family: 'CYRVETIC', sans-serif;
+    position: absolute;
+    display: block;
+    color: black;
+    font-size: 25px;
+    background-color: #e6aa56;
+    border: 1px solid #e6aa56;
+    height: 45px;
+    width: 180px;
+    margin: auto;
+    text-align: center;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-left: 16px;
+    top: 2580px;    
+    left: 220px;
+    font-weight: 600;
+}
+
+.fotocafe2{
+    position: absolute;
+    display: block;
+    top: 2120px;
+    left: 1220px;
+    width: 660px;
+}
