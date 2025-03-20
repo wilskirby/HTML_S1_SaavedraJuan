@@ -342,6 +342,7 @@ body{
     left: 180px;
     width: 445px;
     font-weight: 600;
+    border-radius: 5.4px;
 }
 
 .moch2{
@@ -354,6 +355,7 @@ body{
     left: 180px;
     width: 445px;
     font-weight: 600;
+    border-radius: 5.4px;
 }
 
 .moch3{
@@ -366,6 +368,7 @@ body{
     left: 180px;
     width: 445px;
     font-weight: 600;
+    border-radius: 5.4px;
 }
 
 .expresso{
@@ -659,6 +662,10 @@ body{
 .last pe span {
     color:#e6aa56;
 }
+
+
+
+
 
 _░▒███████
 ░██▓▒░░▒▓██
